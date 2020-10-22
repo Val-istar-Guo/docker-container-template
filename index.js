@@ -18,7 +18,7 @@ exports.rules = [
     ],
   },
   {
-    paht: 'dockerfile',
+    path: 'dockerfile',
     upgrade: 'keep'
   }
 ]
