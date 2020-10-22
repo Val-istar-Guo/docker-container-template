@@ -1,6 +1,6 @@
 {
   "name": "@mtpl/docker-container",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "node": ">=8.9.4"
   },
