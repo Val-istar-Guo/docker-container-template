@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/Val-istar-Guo/docker-container-template/compare/v1.1.0...v1.1.1) (2020-10-24)
+
+
+### Bug Fixes
+
+* build name not equal push ([9f6449c](https://github.com/Val-istar-Guo/docker-container-template/commit/9f6449cbb88d70e2884db4b6c1df90db762f6364))
+
 ## [1.1.0](https://github.com/Val-istar-Guo/docker-container-template/compare/v1.0.3...v1.1.0) (2020-10-24)
 
 
