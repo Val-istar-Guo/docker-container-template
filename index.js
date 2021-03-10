@@ -20,5 +20,15 @@ exports.rules = [
   {
     path: 'dockerfile',
     upgrade: 'keep'
-  }
+  },
+  {
+    path: '.@(git|npm)ignore.mustache',
+    upgrade: 'merge',
+    handler: 'mustache',
+  },
+  {
+    path: '.npmrc.mustache',
+    upgrade: 'merge',
+    handlers: ['mustache'],
+  },
 ]
